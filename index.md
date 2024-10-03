@@ -4,3 +4,20 @@
 ```
 int intVar = 1
 ```
+###### And Now, A Fantastically Anoying CHECKLIST!!!
+- [ ] do this
+- [ ] now do this
+- [ ] do that too
+- [ ] now do this thing
+- [ ] have you done this
+- [ ] complete now
+- [ ] do this too
+- [ ] do that thing
+- [ ] do this
+- [ ] now do this
+- [ ] do that too
+- [ ] now do this thing
+- [ ] have you done this
+- [ ] complete now
+- [ ] do this too
+- [ ] do that thing
